@@ -7,5 +7,6 @@ DXライブラリを使って作りました。
 ![GitHub Repo stars](https://img.shields.io/github/stars/Ennichi/Ennichi?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Ennichi/Ennichi?style=for-the-badge)
 ![GitHub watchers](https://img.shields.io/github/watchers/Ennichi/Ennichi?style=for-the-badge)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ennichi/Ennichi&type=Timeline)](https://star-history.com/#Ennichi/Ennichi&Timeline)
 
 [射的ゲーム](https://user-images.githubusercontent.com/55316963/173184030-63b6af75-d752-4f5e-be9c-6c5deca9a5d5.mp4)
